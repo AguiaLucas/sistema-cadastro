@@ -2,7 +2,7 @@
 
 >> Status do projeto: Em desenvolvimento.
 
-Para executar o projeto em vossa instrumento de trabalho, digitalize o comando abaixo:
+Para executar o projeto digite o seguinte comando:
 
 ```
 npm install react
